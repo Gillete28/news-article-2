@@ -32,3 +32,4 @@ $ git push
 # news-article
 # Gillete-Nevado-news-article
 # news-article-2
+# news-article-2
